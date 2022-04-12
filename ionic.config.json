@@ -1,0 +1,7 @@
+{
+  "name": "Componentesionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
